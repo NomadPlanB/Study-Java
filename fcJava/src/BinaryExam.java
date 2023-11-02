@@ -18,8 +18,5 @@ public class BinaryExam {
         System.out.println("octal_data = " + octal_data); // 0173
         String hexa_data = Integer.toHexString(data);
         System.out.println("hexa_data = " + hexa_data); // 0x7B
-
-        
-
     }
 }
